@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all": "nature_botania:block/heliotropium_arboreum_leaves"
+  }
+}
